@@ -1,4 +1,4 @@
-# ES112 Computing
+# ES112 Machine Learning
 
 This document contains important information about the course.
 
