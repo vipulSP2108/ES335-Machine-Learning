@@ -1,4 +1,4 @@
-# ES112 Machine Learning
+# ES335 Machine Learning
 
 This document contains important information about the course.
 
